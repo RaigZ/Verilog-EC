@@ -1,0 +1,34 @@
+$date
+	Thu Oct 27 15:11:49 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	10ps
+$end
+$scope module h_adder_tb $end
+$var wire 1 ! sum $end
+$var wire 1 " carry $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#2000
+1!
+1$
+#4000
+0$
+1#
+#6000
+0!
+1"
+1$
+#8000
