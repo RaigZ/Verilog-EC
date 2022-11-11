@@ -1,0 +1,53 @@
+$date
+	Fri Nov 11 11:47:16 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	10ps
+$end
+$scope module mipsALU_tb $end
+$var wire 1 ! zero $end
+$var wire 8 " alu_out [7:0] $end
+$var reg 8 # a [7:0] $end
+$var reg 4 $ alu_ctl [3:0] $end
+$var reg 8 % b [7:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b11 %
+b0 $
+b1 #
+b1 "
+0!
+$end
+#500
+b111 "
+b101 %
+b10 #
+b1 $
+#1000
+b101101 "
+b1011 %
+b100010 #
+b10 $
+#1500
+b1001 "
+b11 %
+b1100 #
+b110 $
+#2000
+1!
+b0 "
+b11001 %
+b110101 #
+b111 $
+#2500
+0!
+b11101000 "
+b10001 %
+b111 #
+b1100 $
+#3000

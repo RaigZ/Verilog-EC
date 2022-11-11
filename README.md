@@ -6,4 +6,9 @@ Using iverilog and gtkwave
 ---
 ## Half Adder
 ![Half Adder](docs/img/half_adder.png)
-
+---
+## Mux
+![Mux](docs/img/mux.png)
+---
+## mipsALU
+![mipsALU](docs/img/mipsALU.png)
